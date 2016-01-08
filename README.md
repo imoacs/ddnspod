@@ -1,4 +1,5 @@
-# ddnspod
+# 动态DNSpod、IPv4/IPv6动态域名
+
 Automatically exported from code.google.com/p/ddnspod
 
 原项目地址：https://code.google.com/p/ddnspod/
